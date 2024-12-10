@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta canset="utf-8">
+<title> Итоговая таблица </title>
+<link rel="stulesheet" href="style.css">
+</head>
+<body>
+<table border="1">
+<caption><b>Итоговая таблица</b></caption>
+<tr>
+<td class="my-class">Город</td>
+<td>Посещений</td>
+<td>%</td>
+</tr>
+<tr>
+<td>СПб</td>
+<td>199</td>
+<td>65.12</td>
+</tr>
+<tr>
+<td>Москва</td>
+<td>69</td>
+<td>21.3</td>
+</tr>
+<tr>
+<td>Киев</td>
+<td>5</td>
+<td>8</td>
+</tr>
+<tr>
+<td colspan="2">Посещений за весь период</td>
+<td>273</td>
+</tr>
+</table>
+</body>
+</html>
